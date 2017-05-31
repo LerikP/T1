@@ -1,9 +1,7 @@
 import random
-import time
 import pygame
 from pygame.locals import *
 import sys
-import pdb
 
 GLASS_HEIGHT = 20
 GLASS_WIDTH = 10
